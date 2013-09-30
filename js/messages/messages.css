@@ -1,0 +1,2 @@
+#msg {display:none; position:absolute; z-index:20; background:url("images/msg_arrow.gif") right center no-repeat; padding-right:7px}
+#msgcontent {font:11px Georgia, Arial, Helvetica, sans-serif; color:#131313; font-style: italic; display:block; background:#FFA7D8; border:2px solid #FF4CAF; border-right:none; padding:5px; min-width:150px; max-width:250px}
